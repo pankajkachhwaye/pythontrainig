@@ -1,0 +1,5 @@
+print('hello world')
+print(1 + 7)
+print(5 * 5)
+print()
+print('End', 'or continue 3' , 2)
